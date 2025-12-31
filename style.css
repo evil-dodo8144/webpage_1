@@ -2,3 +2,6 @@ body{
     background-color: blueviolet;
     color: aqua;
 }
+td{
+    border: 2px solid black;
+}
